@@ -178,7 +178,7 @@ importers:
         specifier: ^0.1.7
         version: link:../../packages/core
       '@voltagent/groq-ai':
-        specifier: ^0.1.0
+        specifier: ^0.1.1
         version: link:../../packages/groq-ai
       zod:
         specifier: ^3.24.2
